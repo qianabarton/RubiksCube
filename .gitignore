@@ -33,3 +33,4 @@ sysinfo.txt
 *.apk
 *.unitypackage
 RubiksiOS/.DS_Store
+.DS_Store
