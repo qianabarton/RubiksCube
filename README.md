@@ -1,2 +1,3 @@
 # RubiksCube
-3x3 Rubiks Cube created by me using Unity 3D
+
+A multiplatform interactive 3x3 Rubiks Cube. Created in C# using Unity.
